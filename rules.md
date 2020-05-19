@@ -3,15 +3,22 @@
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
 
-#### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+## My Goals
+My main goals are:
+* Gain an intermediate JavaScript skill level
+* Complete Wes Bos's JavaScript 30
+* Get comfortable using Git in Terminal and GitHub
+* Spend 5-10 minutes each day logging my experience in this repo
+* Create a project that I can display in my portfolio
+
+#### Dates
+May 19, 2020 through August 27, 2020
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
-4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+2. If I code at work, that time won't count towards the challenge. I will also avoid learning topics specifically for work.
+3. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
+4. After the first 14 days, time spent doing tutorials or courses will not count towards the hour. 
 
 
 ## Ideas to make this challenge more effective
