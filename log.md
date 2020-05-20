@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 2: Wednesday May 20
+
+**Today's Progress**:
+I finished day 2 of Javascript30! I built an analog clock. I'm working on making an option to toggle between analog and digital, but I'll have to finish that in my extra time tomorrow. Things I learned:
+* js Date() object
+* ES6 literals
+* click event listeners and passing in an event
+* cubic-bezier in Chrome devtools
+* CSS transform and transition
+
+
+**Tags**:
+JavaScript, CSS
+
+**Reflections** 
+This was fun again!!! I really want to create an digital clock that you can toggle between. I already built part of the functionality, so I'm excited to build the digital feature. I feel like it should be a lot easier than the analog, but maybe not since it's so different.
+
+**Link(s) to work**
+1. 
+
 ### Day 1: Tuesday May 19
 
 **Today's Progress**:
