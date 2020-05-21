@@ -2,7 +2,7 @@
 ### Day 3: Thursday May 21
 
 **Today's Progress**:
-Finished day 3 of JavaScript 30. I built an image display that has 3 settings where you can dynamically change the CSS using js. Fav things I learned: 
+Finished day 3 of JavaScript 30. I built an image display that has 3 settings where you can dynamically change the CSS using js. I also set up my own repo from the clone I had gotten from Wes's site, and I added links to my projects so far. Fav things I learned: 
 * CSS variables declared in :root
 * Beginner ES6 arrow function 
 * You can put two criteria in querySelectorAll
