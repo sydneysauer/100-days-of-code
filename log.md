@@ -1,4 +1,22 @@
 # 100 Days Of Code - Log
+### Day 4: Friday May 22
+
+**Today's Progress**:
+Day 4 of js30. This one had a lot of like "test cases" to figure out, so I tried to work ahead. I was proud of myself for being able to figure a lot of things out before he explained them, though it did remind me how I sometimes make more complicated solutions than necessary. Useful new topics:
+* console.table()
+* Filter, map, sort, reduce arrays
+* casting NodeList to array with Array.from()
+* arrow functions with multiple paramaters
+
+**Tags**:
+JavaScript
+
+**Reflections** 
+I enjoyed being able to flex some array skills. The methods we learned will be super useful in my other projects. I will need more practice with reduce because I felt like that was the most confusing part of today. 
+
+**Link(s) to work**
+1. https://github.com/sydneysauer/js30-projects/tree/master/04array1
+
 ### Day 3: Thursday May 21
 
 **Today's Progress**:
@@ -8,6 +26,7 @@ Finished day 3 of JavaScript 30. I built an image display that has 3 settings wh
 * You can put two criteria in querySelectorAll
 * mousemove event listener
 
+At night, I started working on my own project. I'm building a tool where you can generate a Bootstrap layout by selecting and saving sections of a grid. I was SO HAPPY with how much I knew off the top of my head! I wrote the HTML and js for the UI in literally two hours. It already has some basic functionality. 
 
 **Tags**:
 JavaScript, CSS
@@ -17,6 +36,7 @@ I sort of slacked today...since my Chrome devtools weren't displaying the input 
 
 **Link(s) to work**
 1. https://github.com/sydneysauer/js30-projects/tree/master/03variables
+2. https://github.com/sydneysauer/bootstrap-generator
 
 ### Day 2: Wednesday May 20
 
