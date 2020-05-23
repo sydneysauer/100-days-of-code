@@ -1,4 +1,22 @@
 # 100 Days Of Code - Log
+### Day 5: Saturday May 23
+
+**Today's Progress**:
+Day 5 of js30!! I made a dynamic image container that changes size onclick. I also got a lot done on my previously HTML layout project, which I have now modified to be a color by number generator. :) I redesigned the UI to reflect that new purpose, so I didn't really dig into js much. Important takeaways: 
+* The flex property of flexbox items
+* Flex children syntax with .panels > *
+* toggle() for classList
+
+**Tags**:
+JavaScript, CSS
+
+**Reflections** 
+I LOVE the final product of the Javascript30 project today. I want to dig deeper into the CSS animations, since those were mostly prebuilt. I'm also excited to have a renewed direction for the HTML generator project. I think this new direction will help me be more successful. 
+
+**Link(s) to work**
+1. https://github.com/sydneysauer/bootstrap-generator
+2. https://github.com/sydneysauer/js30-projects/tree/master/05flexpanel
+
 ### Day 4: Friday May 22
 
 **Today's Progress**:
