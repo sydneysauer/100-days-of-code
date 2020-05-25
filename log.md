@@ -1,4 +1,20 @@
 # 100 Days Of Code - Log
+### Day 6: Monday May 25
+
+**Today's Progress**:
+Today, I just worked on my personal website. I had built a horizontal layout, but I didn't really like it, so I switched to vertical. I don't like doing this type of CSS and flexbox heavy work because I don't feel like I am learning much--just doing the same things over and over. But I did learn a few things:
+* mouseout event listeners
+* making circular objects with CSS
+
+**Tags**:
+JavaScript, CSS, HTML
+
+**Reflections** 
+Today was not super fun, but it was important for my site. I'm looking forward to spending more time on the Javascript and making the menu work well. I'm also ready to dive back into js30 after a two day break.
+
+**Link(s) to work**
+1. https://github.com/sydneysauer/personal-site
+
 ### Day 5: Saturday May 23
 
 **Today's Progress**:
