@@ -1,4 +1,21 @@
 # 100 Days Of Code - Log
+### Day 7: Tuesday May 26
+
+**Today's Progress**:
+I got back into Javascript30 and completed day 6 of the course. Today was hard because I'm unfamiliar with regular expressions, so I had to follow along with him more than I would have liked. Things I learned:
+* fetching data from an endpoint and converting it to a json file
+* setting inner HTML of a parent element to a string of html elements rather than creating and adding each element
+* regex "gi" flag
+
+**Tags**:
+JavaScript
+
+**Reflections** 
+I was excited because I went beyond the intended functionality and implemented my own sort method to sort the results by population! I like the sort method because it reminds me of creating a comparator in Java. 
+
+**Link(s) to work**
+1. https://github.com/sydneysauer/js30-projects/tree/master/06type
+
 ### Day 6: Monday May 25
 
 **Today's Progress**:
