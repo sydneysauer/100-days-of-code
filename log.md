@@ -1,4 +1,23 @@
 # 100 Days Of Code - Log
+
+### Day 8: Wednesday May 27
+
+**Today's Progress**:
+The javascript 30 was easy today (array workout), so I spent most of my time on my color by number project. I was excited to use a skill I learned yesterday (setting inner HTML of a parent element to a string of html elements rather than creating and adding each element) to lessen the complexity and length of my code. New skills include:
+* Array prototype methods some(), findIndex(), and every()
+* Arrow functions with implicit return
+* The "name" attribute on HTML radio buttons
+
+
+**Tags**:
+JavaScript, HTML
+
+**Reflections** 
+It felt great to work ahead of Wes today. I have a great grasp on arrays due to my background in Java. It's becoming increasingly clear to me that programming is a highly transferable skill. Once you get the idea of logic and control flow down, I feel like the syntax is pretty simple to learn. 
+
+**Link(s) to work**
+1. https://github.com/sydneysauer/color-by-number/commit/d25dfcfb8db5ad49961e1688949157a0def919f4
+
 ### Day 7: Tuesday May 26
 
 **Today's Progress**:
