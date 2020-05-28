@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 9: Thursday May 28
+
+**Today's Progress**:
+I started the js30 challenge for today, but I was just having too many issues with the Chrome devtools to finish it. It seemed pointless for me to keep debugging and debugging code that I was basically copying and pasting for a tool that I didn't see myself using (html5 canvas). So, I spent my hour on the color by number project. I made some good progress, and I think in a few days I will be able to add CSS for style and not just layout, which I've been dying to do. I anticipate this whole thing will be done by day 14! Skills learned:
+* HTML5 Canvas exists, and Chrome responsive devtools simply does not like it.
+* When debugging, check for classes added/removed in js
+* Using querySelector to get value of radio boxes
+
+
+**Tags**:
+JavaScript
+
+**Reflections** 
+This project has strayed so far from the idea I was super excited about, so I'm ready to be in the home stretch. I hope once I add some CSS this will become a bit more enjoyable and rewarding to finish. I'm excited that the functionality is basically there, though. I just need to add the saving mechanism, which is scary! 
+**Link(s) to work**
+1. https://github.com/sydneysauer/color-by-number/commit/72a8802c7150b13ca12437ffdfee410061c576d2
+
 ### Day 8: Wednesday May 27
 
 **Today's Progress**:
