@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 10: Friday May 29
+
+**Today's Progress**:
+Not super excited about js30 today, since it focused on console methods. Useful, but not COOL! I made a lot of progress on my color by number project, though. I started creating the finish button functionality by assigning each square of the grid to a number based on its assigned color. I just need to print those numbers to each square, then the functionality will be pretty much done. New skills:
+* Converting rgb to hex with logic (thanks Stack Overflow)
+* Console logging techniques, including error, warn, and info
+* A proper forEach loop with anonymous arrow function
+
+
+**Tags**:
+JavaScript
+
+**Reflections** 
+The saving mechanism has become a lot less scary since yesterday. I'm honesly very proud of myself and how much I've been able to accomplish thus far. I'm not looking forward to adding styles to my project, since that's always cumbersome, but I'm going to work on maximizing my dev tool skills to make life easier. 
+**Link(s) to work**
+1. https://github.com/sydneysauer/color-by-number/commit/755a9f4dd6cff24ff2c2b196cfa3c0e8592583b0
+2. https://github.com/sydneysauer/js30-projects/tree/master/09devtools
+
 ### Day 9: Thursday May 28
 
 **Today's Progress**:
