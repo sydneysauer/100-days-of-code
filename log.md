@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 11: Sunday May 31
+
+**Today's Progress**:
+Had to skip yesterday. Moved into my new apartment and was too busy to do the hour! Today's js30 was fun. I figured it out without watching the video, which is a first. I created an "inbox" where you can hold shift to check boxes between the selected. I also worked on my color by number project, and completed functionality for adding the color code key to the bottom of the document. New skills:
+* Changing value of checkbox with javascript
+
+**Tags**:
+JavaScript
+
+**Reflections** 
+Today was so fun!! It was nice to use some of the mathematical logic that I've learned in school to help me create the checkbox functionality. I also enjoyed FINALLY getting the circle spans with each color to show up. I may go back and add them to the original color list. 
+**Link(s) to work**
+1. https://github.com/sydneysauer/color-by-number/commit/934607288d328833a8db76d1bd61a4d283d19bd3
+2. https://github.com/sydneysauer/js30-projects/tree/master/10checkbox
+
 ### Day 10: Friday May 29
 
 **Today's Progress**:
