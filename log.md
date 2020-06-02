@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 12: Monday June 1
+
+**Today's Progress**:
+Started my first day of work. I think it's going to be so much harder to keep this up while working! I still managed to do a long js30 tutorial today. I made a custom video player, which was super cool and rewarding. New skills: 
+* Working with video HTML elements
+* Using short-circuit logic to run functions 
+* Changing flex-basis to create a progress bar
+* Selecting for attributes with query selectors
+
+**Tags**:
+JavaScript, HTML
+
+**Reflections** 
+Work was SO tiring, and I feel like that will definitely cut into my "fun" time with code. But I'm excited to build new skills that will help me expand my reach. 
+**Link(s) to work**
+1. https://github.com/sydneysauer/js30-projects/tree/master/11video
+
 ### Day 11: Sunday May 31
 
 **Today's Progress**:
