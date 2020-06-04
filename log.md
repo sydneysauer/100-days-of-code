@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 14: Wednesday June 3
+
+**Today's Progress**:
+I did so much work on the color by number! Built a mobile landing page, added all CSS styling, and did most of the printer optimization. I'm still stuck on the printer settings for the color key, but that's literally the only thing I need to do before testing. Woohoo!
+* print media query
+* element sizing using inline-block for printing
+* git push instead of git push -u origin master
+
+**Tags**:
+CSS
+
+**Reflections** 
+It's nice to be so close to finished on this one. I have a lot of things to learn for work, though, so it will be hard not to use my hour to do that. I've also decided not to do a js30 video every day--just when I'm in the mood.
+**Link(s) to work**
+1. https://github.com/sydneysauer/color-by-number/commit/0e8bfc8c1636b8cfd8bcbfd16d04b4913bbb6b0d
+
 ### Day 12: Monday June 1
 
 **Today's Progress**:
