@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 15: Thursday June 4
+
+**Today's Progress**:
+FINISHED THE COLOR BY NUMBER PROJECT!!!! I used some creativity to format the color key for printable version and it looks great. I pushed the code to Netlify as a continuous deploy from my repo. This was my first time doing that successfully, so I was super excited. Learned:
+* Adding package.json file with npm init
+* Accessing npm build command
+* Netlify CLI
+* Netlify continuous deploys from GitHub
+* Print media background style workarounds
+
+**Tags**:
+CSS, Netlify, npm
+
+**Reflections** 
+This feels so great. It's crazy how, in really just two weeks, I went from knowing basically no javascript to being able to create such a dymanic user experience. I'm conflicted about whether to continue digging deep into js or choose something else to focus on. I'd love to learn backend stuff or python, and now that I have PluralSight for the summer, it feels a lot more accessible. 
+**Link(s) to work**
+1. https://github.com/sydneysauer/color-by-number
+
 ### Day 14: Wednesday June 3
 
 **Today's Progress**:
